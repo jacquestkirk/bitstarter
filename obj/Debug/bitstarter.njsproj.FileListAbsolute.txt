@@ -1,0 +1,2 @@
+C:\Users\Summer\Documents\projects\bitstarter\obj\Debug\bitstarter.njsprojResolveAssemblyReference.cache
+C:\Users\Summer\Documents\projects\bitstarter\bin\Microsoft.NodejsTools.WebRole.dll
